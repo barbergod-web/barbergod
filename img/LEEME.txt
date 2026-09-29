@@ -1,0 +1,14 @@
+CARPETA DE FOTOS - BarberGod
+
+Coloca aqui las fotos del sitio con estos nombres exactos (formato .jpg):
+
+  hero.jpg        -> Imagen de fondo de la portada
+  fade.jpg        -> Servicio Skin Fade
+  barba.jpg       -> Servicio Barba y perfilado
+  afeitado.jpg    -> Servicio Afeitado toalla caliente
+  diego.jpg       -> Barbero Diego Vargas
+  leo.jpg         -> Barbero Leo Castillo
+  mateo.jpg       -> Barbero Mateo Ruiz
+  galeria-1.jpg a galeria-6.jpg -> Fotos de la galeria (6 en total)
+
+Si falta alguna foto, el sitio muestra un fondo oscuro con un icono en su lugar.

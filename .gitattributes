@@ -1,0 +1,4 @@
+# Mantener LF: los hashes CSP de index.html dependen de los saltos de línea exactos
+* text=auto eol=lf
+*.png binary
+*.jpg binary
